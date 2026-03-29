@@ -1,4 +1,4 @@
-![Mechanical Gear Design Preview](preview.png)
+
 # Mechanical Gear Design - AutoCAD ⚙️
 
 This project showcases a precise mechanical gear design developed using **AutoCAD**. It focuses on geometric accuracy, gear tooth profiling, and technical drawing standards essential for mechanical power transmission systems.
